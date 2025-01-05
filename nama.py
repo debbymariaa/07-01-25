@@ -1,3 +1,0 @@
-nama: "windah"
-
-print (name)
