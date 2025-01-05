@@ -39,4 +39,4 @@ jobs:
         run: date
       
       -name: jalankan file python
-       run: python name.py
+       run: python nama.py
