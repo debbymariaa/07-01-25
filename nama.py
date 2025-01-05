@@ -1,0 +1,3 @@
+nama: "windah"
+
+print (name)
