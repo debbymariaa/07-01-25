@@ -1,3 +1,2 @@
-nama: "windah"
-
-print (name)
+nama = "windah"
+print(nama)
