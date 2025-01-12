@@ -42,4 +42,4 @@ jobs:
         run: python nama.py
 
       - name: secret variable
-        run: echo ${{secret, NAMA_LENGKAP}}
+        run: echo ${{secrets.NAMA_LENGKAP}}
